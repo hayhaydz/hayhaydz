@@ -1,6 +1,6 @@
 Hey, I'm Haydon.
 
-I'm a web developer in my third year studying Creative Computing at Bath Spa University.
+I'm a web developer currently in my third year studying Creative Computing at Bath Spa University.
 
 In my spare time I enjoy anything from photography to watching Attack on Titan, I'm always up for new oppurtunities and exciting challenges.
 
