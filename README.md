@@ -2,6 +2,6 @@ Hey, I'm Haydon.
 
 I'm a Graduate Frontend Developer with a degree in Creative Computing from Bath Spa University.
 
-In my spare time I enjoy photography, hiking, reading and watching Anime, currently I'm watching Demon Slayer S3
+In my spare time I enjoy photography, hiking, reading and watching Anime, currently I'm watching Jujutsu Kaisen S2
 
-You can send me an [email](mailto:haydon.curteis-lateo@outlook.com), look at my photography on [unsplash](https://unsplash.com/@hayhaydz), connect with me on [linkedin](https://www.linkedin.com/in/hayhaydz/), or just have a browse through some of my work here on GitHub!
+You can send me an [email](mailto:haydon.curteis-lateo@outlook.com), look at my photography on [unsplash](https://unsplash.com/@hayhaydz), connect with me on [linkedin](https://www.linkedin.com/in/hayhaydz/) (or the cooler LinkedIn [read.cv](https://read.cv/hayhaydz)), or just have a browse through some of my work here on GitHub!
