@@ -1,6 +1,6 @@
 Hey, I'm Haydon.
 
-I'm a Graduate Frontend Developer with a degree in Creative Computing from Bath Spa University.
+I'm a Junior Frontend Developer creating websites on the interwebs.
 
 In my spare time I enjoy photography, hiking, reading and watching Anime, currently I'm watching Jujutsu Kaisen S2
 
