@@ -1,6 +1,6 @@
 Hey, I'm Haydon.
 
-I'm a Junior Frontend Developer creating websites on the interwebs.
+I'm a Frontend Developer creating websites on the interwebs.
 
 In my spare time I enjoy photography, hiking, reading and watching anime, currently I'm watching Jujutsu Kaisen S2
 
